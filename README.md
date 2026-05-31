@@ -133,7 +133,19 @@ After alignment:
 - MAD reduced after radiometric correction
 
 - Smooth spectral transition in overlap region
+### Spectral Fusion Result
 
+![Fusion Result](images/Figure_1a.png)
+![Fusion Result](images/Figure_21.png)
+
+![Fusion Result](images/Figure_2a.png)
+![Fusion Result](images/Figure_22.png)
+
+![Fusion Result](images/Figure_27a.png)
+![Fusion Result](images/Figure_27aa.png)
+
+![Fusion Result](images/Figure_28a.png)
+![Fusion Result](images/Figure_28aa.png)
 ## Dataset
 
 The hyperspectral dataset (VNIR 1800 and SWIR 384) is not included in this repository due to its large size (~4GB).
