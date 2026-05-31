@@ -1,8 +1,8 @@
-# VNIR–SWIR Hyperspectral Fusion Using PCA–SIFT–MI Registration 
+# VNIR–SWIR Hyperspectral Fusion 
 
 
 
-## Abstract
+## Introduction
 
 This project presents a complete pipeline for fusing hyperspectral data acquired from two complementary sensors: VNIR (Visible and Near Infrared) and SWIR (Short-Wave Infrared). Due to differences in spatial resolution, radiometric response, and spectral coverage, direct fusion is non-trivial. We propose a processing pipeline consisting of calibration, spectral alignment, registration, radiometric correction, and spectral fusion to produce a geometrically aligned and spectrally consistent hyperspectral cube.
 
