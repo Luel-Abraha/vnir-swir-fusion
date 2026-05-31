@@ -1,9 +1,9 @@
 import numpy as np
 
 # =========================================================
-# PATH CONFIG (EDIT ONLY THIS IF NEEDED)
+# PATH CONFIG (EDIT THIS )
 # =========================================================
-DATA_PATH = "data"  # change to Drive path if needed
+DATA_PATH = "data"  # change to Drive path 
 
 # =========================================================
 # SENSOR METADATA
