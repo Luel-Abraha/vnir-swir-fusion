@@ -134,9 +134,21 @@ After alignment:
 
 - Smooth spectral transition in overlap region
 
+## Dataset
 
+The hyperspectral dataset (VNIR 1800 and SWIR 384) is not included in this repository due to its large size (~4GB).
 
----
+It can be downloaded from Google Drive:
+
+https://drive.google.com/drive/folders/1atJEfwmer588Qk464q-Agkps0qFTr_JD?usp=drive_link
+
+After downloading, place the files in:
+
+data/
+├── VNIR_cropped_cube.npy
+├── SWIR_aligned_cube.npy
+├── VNIR_wavelength.npy
+└── SWIR_wavelength.npy
 
 
 
